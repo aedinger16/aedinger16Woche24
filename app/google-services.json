@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023937809408",
+    "firebase_url": "https://aedinger16woche24.firebaseio.com",
+    "project_id": "aedinger16woche24",
+    "storage_bucket": "aedinger16woche24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023937809408:android:e4bf755fd5db7136",
+        "android_client_info": {
+          "package_name": "htl.grieskirchen.aedinger16woche24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023937809408-locj1ppaqpl2ni0vv0bn5849cb2qo6h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "htl.grieskirchen.aedinger16woche24",
+            "certificate_hash": "2269c95f2b72ec3156169362989c523c783dbb2a"
+          }
+        },
+        {
+          "client_id": "1023937809408-qb722dvsbvogs6m41pvqqh19kovc6573.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xCmn6H2h189nlTWu3jTY8h_3sTOzRy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023937809408-qb722dvsbvogs6m41pvqqh19kovc6573.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
